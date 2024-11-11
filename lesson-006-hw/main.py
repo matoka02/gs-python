@@ -19,6 +19,7 @@ animal_2.make_sound()
 
 print('------------------------------')
 
+# task 2
 
 class Rectangle:
     def __init__(self, width, height):
