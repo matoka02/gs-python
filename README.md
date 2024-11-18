@@ -17,4 +17,10 @@
    pip install psycopg #
    pip install python-dotenv
    ```
-4) 
+4) lesson-016
+   ``` python
+   pip install PyJWT
+   pip install python-multipart
+   pip install "python-jose[cryptografy]"
+   pip install "passlib[bcrypt]"
+   ```
