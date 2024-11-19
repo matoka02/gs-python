@@ -24,3 +24,7 @@
    pip install "python-jose[cryptografy]"
    pip install "passlib[bcrypt]"
    ```
+5) lesson-017
+   ``` python
+   pip install asyncpg
+   ```
