@@ -28,3 +28,7 @@
    ``` python
    pip install asyncpg
    ```
+6) lesson-018
+   ``` python
+   pip install pillow
+   ```
